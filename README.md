@@ -8,7 +8,7 @@ Aspiring IT professional with a proven ability to design and build functional au
 * **System Automation:** Make.com, Zapier and n8n
 * **Database Design:** Airtable (Relational)
 * **AI & Prompt Engineering:** Gemini, Perplexity
-* **Languages:** English (Fluent), German (B1 - in progress), Hindi (Native)
+* **Languages:**  German B1 (B2-in progress), English (Fluent) & Hindi (Native)
 
 ---
 
@@ -16,8 +16,6 @@ Aspiring IT professional with a proven ability to design and build functional au
 
 This project is a rules-based automation system that manages a professional workflow by linking a relational database in Airtable to the Google Calendar API. It demonstrates a full-cycle process: event creation based on a task's start and event deletion based on its completion.
 
-**(https://www.loom.com/share/1c7677bf7e3746d2a1b28f374a8a1ebc?sid=24d60092-b3af-414b-8928-b32b0cfcedf7)**
-
-[**> Click here to view the Project's technical documentation and a link to the live Airtable base.**](https://github.com/your-username/your-project-repository-link)
+**[View Demo here!](https://drive.google.com/drive/folders/15oGEFKPlucL04Dr2ExSFAENESxP3okgC?usp=sharing)**
 
 ---
