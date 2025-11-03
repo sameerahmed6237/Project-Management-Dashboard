@@ -1,21 +1,15 @@
-# Sameer Ahmed | Aspiring IT Specialist for Data & Process Automation
+## ✨ Featured Project: Task-to-Calendar Synchronization Engine
 
-Aspiring IT professional with a proven ability to design and build functional automation systems using modern no-code tools. Currently advancing German language skills to a B1 level in preparation for an Ausbildung in Germany. My focus is on leveraging technology to create efficient, reliable, and practical solutions for business processes.
+This project showcases core expertise in **System Integration and Process Automation** by creating a reliable, full-cycle synchronization loop between a relational database and a critical external scheduling API.
 
----
+### Technical Achievements & Automation Flow
 
-### Core Skills
-* **System Automation:** Make.com, Zapier and n8n
-* **Database Design:** Airtable (Relational)
-* **AI & Prompt Engineering:** Gemini, Perplexity
-* **Languages:**  German B1 (B2-in progress), English (Fluent) & Hindi (Native)
-
----
-
-### Featured Project: The Project Management Dashboard
-
-This project is a rules-based automation system that manages a professional workflow by linking a relational database in Airtable to the Google Calendar API. It demonstrates a full-cycle process: event creation based on a task's start and event deletion based on its completion.
+| Component | Achievement & Technical Focus |
+| :--- | :--- |
+| **Goal & Value** | Eliminated manual scheduling conflicts and calendar clutter by creating a system that keeps task management and scheduling in perfect sync. |
+| **Automation Engine** | Established a **full-cycle, rules-based automation** using **Zapier** (or **Make.com**) to govern the entire task lifecycle, demonstrating proficiency in low-code orchestration. |
+| **Conditional Creation** | Implemented logic to automatically **create a Google Calendar event** (with specific deadlines) immediately upon task assignment in the relational database. |
+| **Data Integrity Loop (The USP)** | Designed a critical synchronization loop that executes **conditional deletion** of the scheduled event in Google Calendar the moment the task's status is updated to **`Completed`** in Airtable. This proves mastery of API write/delete operations based on database triggers. |
+| **Technical Stack** | **Airtable** (Relational Database Design) $\leftrightarrow$ **Zapier** (Process Orchestration) $\leftrightarrow$ **Google Calendar API** (Service Integration) |
 
 **[View Demo here!](https://drive.google.com/drive/folders/15oGEFKPlucL04Dr2ExSFAENESxP3okgC?usp=sharing)**
-
----
