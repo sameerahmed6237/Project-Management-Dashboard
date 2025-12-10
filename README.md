@@ -1,4 +1,4 @@
-## ✨ Personal Project Management Dashboard
+## ✨ Project Management Dashboard
 A Task-to-Calendar Synchronization Engine
 
 This project showcases core expertise in **System Integration and Process Automation** by creating a reliable, full-cycle synchronization loop between a relational database and a critical external scheduling API.
